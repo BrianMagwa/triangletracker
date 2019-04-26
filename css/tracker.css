@@ -1,0 +1,19 @@
+body{
+    background-image: url(../images/giphy1.gif)
+}
+h1 {
+    color: orange
+}
+input[type=number] {
+    width: 7%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+input {
+    border-radius: 6px
+}
+input[type=submit] {
+    width: 5%;
+    margin: 5px 0;
+
+}

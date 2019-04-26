@@ -29,11 +29,12 @@ h1{
     text-align: center;
 }
 h2{
-    text-align: center;
+    text-align: left;
     font-size: 50px;
 }
 fieldset{
-    align-content: center;
+    text-align: center;
+    margin-left: 50%;
     width: 10%;
 }
 input{
@@ -41,7 +42,7 @@ input{
 }
 img{
     float: left;
-    border-radius: 8px;
+    border-radius: 50px;
     border: 10px darkslategray;
     padding: 100px;
 

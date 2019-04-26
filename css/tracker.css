@@ -42,7 +42,7 @@ input{
 img{
     float: left;
     border-radius: 8px;
-    border: 1px darkslategray;
-    padding: 60px;
+    border: 10px darkslategray;
+    padding: 100px;
 
 }

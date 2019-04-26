@@ -39,6 +39,8 @@ fieldset{
     width: 10%;
     border:3px solid black;
     border-radius: 3px;
+    margin-bottom: 20%;
+    margin-top: 20%;
 }
 input{
     align-items: center;
